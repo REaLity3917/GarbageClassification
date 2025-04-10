@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagess</folder>
+	<filename>Mooli14_3.jpg</filename>
+	<path>../data/annotations/Mooli14_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mooli</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>199</ymin>
+			<xmax>280</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

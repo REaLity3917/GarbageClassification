@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>BottleNew5.jpg</filename>
+	<path>D:\PyCharm\projects\yolov5-7.0\data\images\Bottle New5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>472</xmin>
+			<ymin>242</ymin>
+			<xmax>635</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+</annotation>

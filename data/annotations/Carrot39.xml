@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagess</folder>
+	<filename>Carrot39.jpg</filename>
+	<path>D:\&#22935;&#23684;&#28528;\imagess\Carrot39.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>136</ymin>
+			<xmax>367</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>

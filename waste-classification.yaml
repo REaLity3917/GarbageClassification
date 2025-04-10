@@ -1,0 +1,8 @@
+train: data/dataSet_path/train.txt
+val: data/dataSet_path/val.txt
+
+# number of classes
+nc: 11
+
+# class names
+names: ["Bottle","Battery","Medicine","Carrot","Potato","Mooli","China","Pebble","Cup","Brisk","Shell"]

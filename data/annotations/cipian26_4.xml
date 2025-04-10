@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>cipian26_4.jpg</filename>
+	<path>../data/annotations/cipian26_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>China</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>229</ymin>
+			<xmax>393</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

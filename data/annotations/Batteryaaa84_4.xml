@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Batteryaaa84_4.jpg</filename>
+	<path>../data/annotations/Batteryaaa84_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Battery</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>86</ymin>
+			<xmax>384</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>

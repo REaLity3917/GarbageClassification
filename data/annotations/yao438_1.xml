@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>yao438_1.jpg</filename>
+	<path>../data/annotations/yao438_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Medicine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>412</xmin>
+			<ymin>307</ymin>
+			<xmax>464</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

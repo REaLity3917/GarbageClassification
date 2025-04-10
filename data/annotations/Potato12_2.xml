@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagess</folder>
+	<filename>Potato12_2.jpg</filename>
+	<path>../data/annotations/Potato12_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Potato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>121</ymin>
+			<xmax>347</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>zhuan10.jpg</filename>
+	<path>D:\PyCharm\projects\yolov5-7.0\data1\images\zhuan10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Brisk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>206</ymin>
+			<xmax>349</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

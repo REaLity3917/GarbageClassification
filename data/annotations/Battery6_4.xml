@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagess</folder>
+	<filename>Battery6_4.jpg</filename>
+	<path>../data/annotations/Battery6_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Battery</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>400</ymin>
+			<xmax>400</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+</annotation>

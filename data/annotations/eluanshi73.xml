@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>eluanshi73.jpg</filename>
+	<path>D:\PyCharm\projects\yolov5-7.0\data\images\eluanshi73.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pebble</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>265</ymin>
+			<xmax>360</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</annotation>

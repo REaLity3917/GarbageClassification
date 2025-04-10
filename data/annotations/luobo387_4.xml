@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>luobo387_4.jpg</filename>
+	<path>../AUG/annotations/luobo387_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carrot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>382</ymin>
+			<xmax>363</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+</annotation>

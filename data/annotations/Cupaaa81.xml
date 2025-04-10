@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Cupaaa81.jpg</filename>
+	<path>D:\PyCharm\projects\yolov5-7.0\data0\images\Cupaaa81.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>312</ymin>
+			<xmax>475</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>

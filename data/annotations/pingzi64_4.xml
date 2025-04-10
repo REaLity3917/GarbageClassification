@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>pingzi64_4.jpg</filename>
+	<path>../data/annotations/pingzi64_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>180</ymin>
+			<xmax>475</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

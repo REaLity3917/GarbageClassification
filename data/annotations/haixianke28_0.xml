@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>haixianke28_0.jpg</filename>
+	<path>../data/annotations/haixianke28_0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Shell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>400</xmin>
+			<ymin>313</ymin>
+			<xmax>465</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>
